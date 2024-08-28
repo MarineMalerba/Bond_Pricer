@@ -223,7 +223,7 @@ example_bond = BOND_PRICER(
     coupon_frequency=0.5)
 
 # Assuming LIBOR, risk-free and spread curves data are in an Excel file
-excel_path = '/Users/marinemalerba/Documents/CS/PYTHON/data for python project.xlsx' 
+excel_path = # path to 'data for python project.xlsx' 
 if not os.path.exists(excel_path):
     print(f"File {excel_path} does not exist.")
     sys.exit(1)
