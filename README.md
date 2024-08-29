@@ -1,7 +1,7 @@
 # Bond_Pricer
 
 ## Overview
-The **Bond Pricer** Project is a Python-based tool designed to calculate the price, duration, sensitivity, and payment schedule of various types of bonds. The project supports different bond types, including bullet bonds, zero-coupon bonds, fixed annuities, constant amortizations, and equal series repayments. The tool also takes into account different interest rate curves like the risk-free curve, spread curve, and LIBOR curve.
+The **Bond Pricer** project is a Python-based tool designed to calculate the price, duration, sensitivity, and payment schedule of various types of bonds. The project supports different bond types, including bullet bonds, zero-coupon bonds, fixed annuities, constant amortizations, and equal series repayments. The tool also takes into account different interest rate curves like the risk-free curve, spread curve, and LIBOR curve.
 
 ## Features
 + **Bond Pricing**: Calculate the price of bonds based on the type, maturity, coupon rate, and relevant financial curves.
